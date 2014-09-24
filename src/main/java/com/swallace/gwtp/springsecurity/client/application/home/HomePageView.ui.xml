@@ -1,0 +1,14 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+    <g:HTMLPanel>
+        Hello World! I am the HomePageView
+	    <br/>
+	    
+	    <a class="btn" href="#home"><i class="icon-user icon-white"></i> Home</a>
+	    <br></br>
+	    <a class="btn" href="#admin"><i class="icon-user icon-white"></i> Admin</a>
+	    
+	    <br/>
+        
+	</g:HTMLPanel>
+</ui:UiBinder>
